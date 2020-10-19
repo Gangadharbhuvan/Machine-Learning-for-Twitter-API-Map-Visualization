@@ -7,7 +7,7 @@ Change access to "Read and Write" to post a Tweet.
 ![Tweet](https://github.com/Gangadharbhuvan/Machine-Learning-for-Twitter-API-Map-Visualization/blob/main/1.SimpleTwitterBot/Tweet.png)
 
 2.Linear Regression - Realtime Tweet with Python code
-![Output](https://github.com/Gangadharbhuvan/Machine-Learning-for-Twitter-API-Map-Visualization/blob/main/1.SimpleTwitterBot/Tweet.png)
+![Output](https://github.com/Gangadharbhuvan/Machine-Learning-for-Twitter-API-Map-Visualization/blob/main/2.Linear_Regression/Linear_Regression_Output.png)
 
 Linear Regression Plot
 ![Linear Regression plot](https://github.com/Gangadharbhuvan/Machine-Learning-for-Twitter-API-Map-Visualization/blob/main/2.Linear_Regression/Linear_Regression_Plot.png)
