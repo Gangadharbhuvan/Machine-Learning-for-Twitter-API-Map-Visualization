@@ -16,10 +16,9 @@ Linear Regression Plot
 ![KMeans Regression plot](https://github.com/Gangadharbhuvan/Machine-Learning-for-Twitter-API-Map-Visualization/blob/main/3.KMeansModel/KMeans_plot.png)
 
 4. Sentiment Analysis Model 
-![Sentiment Analysis](https://github.com/Gangadharbhuvan/Machine-Learning-for-Twitter-API-Map-Visualization/blob/main/3.KMeansModel/KMeans_plot.png)
+![Sentiment Analysis](https://github.com/Gangadharbhuvan/Machine-Learning-for-Twitter-API-Map-Visualization/blob/main/4.SentimentAnalysisModel/SentimentAnalysisModel.png)
 
-6. Twitter Data Map Visualization
-Map Visualizaton - 1
+6. Twitter Data Map Visualization - 1
 ![Python](https://github.com/Gangadharbhuvan/Machine-Learning-for-Twitter-API-Map-Visualization/blob/main/6.Visualize%20the%20data/Python_Mood.png)
 
 Map Visualizaton - 2
